@@ -6,12 +6,13 @@
 </h1>
 
 <h4>Sometimes I contribute to open-source projects, <br>
-  but most of the time I'm simply making some hobby projects in Java, <br> 
+  but most of the time I'm simply coding some hobby projects in Java, <br> 
   which you can find <a href="https://github.com/niklas2810?tab=repositories">here</a>.</h4>
 
 #### Find me on...
 
 - GitHub: [niklas2810](https://github.com/niklas2810)
+- GitLab: [niklas2810](https://gitlab.com/niklas2810)
 - Keybase: [niklas2810](https://keybase.io/niklas2810)
 - Twitter: [niklas2810](https://twitter.com/niklas2810)
 - Discord: Niklas#1139
