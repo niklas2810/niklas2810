@@ -1,5 +1,5 @@
 <h1>
-  Hi there 👋 ― <br> 
+  Hey there 👋 ― <br> 
   my name is Niklas Arndt <br> 
   and I am a young software engineer <br>
   based in Germany.
