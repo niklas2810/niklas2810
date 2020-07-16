@@ -1,7 +1,7 @@
 <h1>
   Hey there 👋 ― <br> 
   my name is Niklas Arndt <br> 
-  and I am a young software engineer <br>
+  and I'm a young software engineer <br>
   based in Germany.
 </h1>
 
