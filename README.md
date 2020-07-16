@@ -1,8 +1,8 @@
 <h1>
   Hi there 👋 ― <br> 
-  this is the profile of <a href="https://github.com/niklas2810">niklas2810</a> <br> 
-  a young software engineer based <br>
-  in Germany.
+  my name is Niklas Arndt <br> 
+  and I am a young software engineer <br>
+  based in Germany.
 </h1>
 
 <h4>Sometimes I contribute to open-source projects, <br>
