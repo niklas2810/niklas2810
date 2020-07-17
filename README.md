@@ -24,14 +24,24 @@
 
 **What I'm currently up to**
 
-![Fritzbox Java API](https://github-readme-stats.vercel.app/api/pin/?username=niklas2810&repo=fritzbox-java-api)
-![Code Sandbox](https://github-readme-stats.vercel.app/api/pin/?username=niklas2810&repo=sandbox)
+<a href="https://github.com/niklas2810/fritzbox-java-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niklas2810&repo=fritzbox-java-api">     
+</a>
+<a href="https://github.com/niklas2810/sandbox">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niklas2810&repo=sandbox">     
+</a>
 
 
 **What I've done in the past**
 
 :warning: Some of this code may have a quite terrible quality as I wasn't very experienced back then. :warning:
 
-![Presentation](https://github-readme-stats.vercel.app/api/pin/?username=niklas2810&repo=Presentation)
-![Abbreviation](https://github-readme-stats.vercel.app/api/pin/?username=niklas2810&repo=abbreviation)
-![Custom Rich Presence](https://github-readme-stats.vercel.app/api/pin/?username=niklas2810&repo=custom-rich-presence)
+<a href="https://github.com/niklas2810/Presentation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niklas2810&repo=Presentation">     
+</a>
+<a href="https://github.com/niklas2810/abbreviation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niklas2810&repo=abbreviation">     
+</a>
+<a href="https://github.com/niklas2810/custom-rich-presence">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niklas2810&repo=custom-rich-presence">     
+</a>
