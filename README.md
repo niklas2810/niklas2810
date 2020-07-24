@@ -27,6 +27,9 @@
 <a href="https://github.com/niklas2810/fritzbox-java-api">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=niklas2810&repo=fritzbox-java-api">     
 </a>
+<a href="https://github.com/niklas2810/my-discord-butler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niklas2810&repo=my-discord-butler">     
+</a>
 <a href="https://github.com/niklas2810/sandbox">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=niklas2810&repo=sandbox">     
 </a>
