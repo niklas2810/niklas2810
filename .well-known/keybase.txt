@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/niklas2810
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.niklasarndt.com
+  * I am niklas2810 (https://keybase.io/niklas2810) on keybase.
+  * I have a public key with fingerprint 4D11 5035 1894 6874 0C85  8318 8DEB 8143 8837 2C03
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012065fe6e412539fb60fd05e0c9fecb25ed58deda30669cc71e0c7e0cdfea1e26b20a",
+      "fingerprint": "4d115035189468740c8583188deb814388372c03",
+      "host": "keybase.io",
+      "key_id": "8deb814388372c03",
+      "kid": "0101b2e002ecd9d40d433405ec58f7c20b3f92ec320c10e50811fc60de6d1e2ecb460a",
+      "uid": "7a63aa7fe1b8ab89202579672ac21c19",
+      "username": "niklas2810"
+    },
+    "merkle_root": {
+      "ctime": 1600849338,
+      "hash_meta": "26d405682dd5272e3e39d43224b1effa1941bdb46912313480a54f94c80047cb",
+      "seqno": 17645333
+    },
+    "revoke": {
+      "sig_ids": [
+        "a953ddf5a747ab1e64b4972c131e3cbd771ed432a144fb04a504579f8f415ad80f"
+      ]
+    },
+    "service": {
+      "hostname": "www.niklasarndt.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1600849413,
+  "expire_in": 157680000,
+  "prev": "30b3caf288aef2093eec3eed7008f694d614ffb8474967a2a724fdb91e00392c",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMQHAnicbZN7bFRFFMaXAsUWtAVrMGkKeAM2wFLmdV8Ft0EsCMG0IDYGCpu5d2bK
+druP7m5bKRYWxLRW5BHDQ+VVoAQCUqjaQn2Vh5RKqAWNYLEiBBXYiBEVIQV0tkKi
+iX/c3Nw73/nOb74zc+zhvo7kPm/Elk6u0Z19+5w8Ei1zuL2J/RcpVoAtVLIXKV7e
+++IljIcjbq+HKdkKgAhoquAaJxCp2BSWBgQDKge2KbhtIZUz1WCcUQw0zbRtHcol
+XT5McAo50iwEqOJUhMdfxEPBkMcfkbaEQagCrELDJJqhE2AbqoGhIZ0sAxJsGFhH
+NsCycEEgHK+QcBYN8yxPQP6TH+5evP/RP+AG0EIcAMRtZjICGMGYSG5bNYRuI2Bh
+Yco1jIANAVeBAaGwNcC4xiS13BnRernLeu10qmFKdcGhZVDLMBFAqm5qOqI2gjY0
+48IwD/mpj0u13+MtoWFkQKBUORUfD3lLuDsUCETi8doRT1wENQAMYmJsyC3S8AK3
+j0eorEWahFU1AzGmIh1xzLHExwgRC3IhKDQJtJikMyHCEBMDUJUIk9gGAES3LUkS
+5qX+gOyga0TFGEuEEC8PeHm8e9hTJJMLK9lzFWqqmDGhUp3oVJprxCKmTBFiyLFt
+MV2OMt6ZQkKEBQhVAZGbFoYgUKXMAEKZVxXvFir32L3m8VHdj6CioiLrnxhoyM8i
+WXbAJ8mCoUAkYAdKpGBBJBIMZ8fziSwM9lZwy33fy215/EyeF1lRzkNhT8AvdyOV
+/42OQOxU+EtBT4i7PXGFqmsyBADifXi5tMRyyjYVyDAoFwiYmMuBc850WS80kzAN
+EiEsg+hEzpIiqiMimGXKIwywiex/ZalJTlokPWWAfhopC3Gl6sjhwn6OPsmOxP4J
+8YvkSE5KfXC9zhek3HPVfJGTGLvhGZV01Tx21jekcMtjWz90XVsW+aswN+ettvpd
+eWN5Q4Ey+ddhero/rbImM39cXnt0em1a/YSeh2al7Uw9Oze8Zv71IbUZ+S1d6Ul5
+rXnN7hV7SpujT+45O744qfur6BZ0/tC2U807Ru5Kbv9p1ebVdQvfbO74pvPO+Skz
+e0470+nsoxN+e8rnPPTMuwmvb67e0V31yoVtnXMrjwz+Y+WilJQJ/XdPrZv5+N5X
+mw43RdPXN6Un1D9d0fH+MNfIaaXGJtZe/m2bVnDSN6DFXZc3aMS+y+dcX7pGrBid
+lsKXr6o9MNHa6rk5Knun8sj+G6uXvv2xQ6+fPj/jjjawcnYs1rN+ZmrruHXBxqQb
+4Y3tVzurnZVMLBuWkFGoV1uO5ZlT8oX2bMe9QZn9bndVFdo1Px+f1zHw7vevPXrg
+0pjc1N+/u7K9aW3uktiGy8UbZmRFa3M+7TrROHF0AZiVXoZdQdHk2O/4cVt0UoW4
+tfbcxEvda12J721effdEfssnQ4//WXix7eXazncOtuYu6XrxomPM9Y1bumbMaViZ
+WQzODPkhNnT7xUm7/dVnZnzm2EG77aMlw682lu6bdqv7a2/D56euLY4d7NZ2nm7b
+eGrAGmvOqOnN3PoFthS7xjcud4qioR/UPLfv9vAXHjkw+trY7o9aM3qipbHFjop1
+T2zKGTv45vN7G65MvVCysjLWcKbub2bd/8c=
+=Ez9l
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/niklas2810
+
+==================================================================
