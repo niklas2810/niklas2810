@@ -18,5 +18,9 @@
 - Discord: Niklas#1139
 - [niklasarndt.com](https://niklasarndt.com)
 
+<a href="https://github.com/niklas2810?tab=repositories" target="_blank">
+  
+![](https://github.com/niklas2810/github-stats/blob/main/generated/overview.svg)
+![](https://github.com/niklas2810/github-stats/blob/main/generated/languages.svg)
 
-![Niklas's GitHub stats](https://github-readme-stats.vercel.app/api?username=niklas2810&show_icons=true&&hide_border=true&hide_rank=true)
+</a>
