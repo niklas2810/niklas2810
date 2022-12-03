@@ -6,7 +6,7 @@
 </h1>
 
 <h4>Sometimes I contribute to open-source projects, <br>
-  but most of the time I'm simply coding some hobby projects in Java, <br> 
+  but most of the time I'm simply working on some hobby projects, <br> 
   which you can find <a href="https://github.com/niklas2810?tab=repositories">here</a>.</h4>
 
 #### Find me on...
