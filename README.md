@@ -14,7 +14,6 @@
 - GitHub: [niklas2810](https://github.com/niklas2810)
 - GitLab: [niklas2810](https://gitlab.com/niklas2810)
 - Keybase: [niklas2810](https://keybase.io/niklas2810)
-- Twitter: [niklas2810](https://twitter.com/niklas2810)
 - Discord: Niklas#1139
 - [niklasarndt.com](https://niklasarndt.com)
 
