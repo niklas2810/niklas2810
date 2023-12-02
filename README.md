@@ -1,7 +1,3 @@
----
-title: niklas2810 / Niklas Arndt
----
-
 ## Hey there 👋 I'm Niklas, a software engineer from Germany.
 
 This page is dedicated to my hobby projects, which are mostly written in C#, Java and TypeScript.
